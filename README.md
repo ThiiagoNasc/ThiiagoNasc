@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Thiago Nascimento 🐱‍🏍
+## Bem-vinde ao perfil do Thiago Nascimento 🐱‍👤
 
  <div>
    <a href="https://github.com/ThiiagoNasc">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes Sociais! 👾
  
 <div> 
   
